@@ -1,3 +1,5 @@
+This README is currently being updated.
+---
 # Multimodal AI-based Detection and Tracking of Autistic Behavioral Patterns
 
 ## i. Problem Definition
